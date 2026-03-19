@@ -1,5 +1,3 @@
----
-
 ### `docs/PRD.md`
 
 **Overview**
@@ -53,5 +51,3 @@ The platform serves as a specialized directory and lease-management tool. Instea
 **Open Questions**
 * Does the platform's 10% service fee apply only to the recurring rental rate, or does it also take a cut of the initial security deposit?
 * How should the platform handle or penalize late recurring monthly payments logged in the ledger?
-
----
