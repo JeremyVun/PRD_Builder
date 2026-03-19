@@ -1,7 +1,7 @@
 # How to use this
 
 1. Open a new AI chat. (gemini, chatgpt, grok, whatever AI you want to use).
-2. Copy paste the contents of `create_prd.md` to the AI and have a thoughtful session with it to hammer out the details of the product you want to build
+2. Copy paste the contents of `create_prd.md` to the AI and have a session with it to clarify thoughts, hammer out the details of the product you want to build. Because it's an AI, you can just talk to it stream of consciousness as the creative driver if you want. It should help you sort things out.
 3. Once you're happy, you can ask it to create the PRD (Product requirements doc). If you're using a free tool like gemini, you can switch it to "Pro" mode for this step so it does a bit more thinking when considering the discussion history when creating the document.
 
 # Notes
