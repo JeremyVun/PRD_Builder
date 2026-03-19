@@ -1,5 +1,5 @@
 >  [!NOTE]
-> This is just an example of a PRD that I generated from a quick chat. You can continue with this one as your "save point", but I'd recommend starting one from scratch instead to help better capture whatever unique thoughts and vision you might have.
+> This is just an example of a PRD that I generated from a quick chat. You can continue with this one as your "save point", but I'd recommend starting one from scratch instead (see the instructions in readme.md) to help better capture whatever unique thoughts and vision you might have.
 
 ### `docs/PRD.md`
 
