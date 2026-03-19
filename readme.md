@@ -37,4 +37,4 @@ You can ask the AI to create a PRD for you at any point as a "save point". For e
 ### Why create a PRD
 The PRD is a common starting point and high level artifact for application & feature development. It serves as a shareable, common product document that captures the what, why, and how.
 
-After the PRD is crystallised, a set of of lower level requirements and application specs can be distilled which inform the actual development of the application. This provides guidance and guardrails around the app to make sure it always aligns back to fulfilling the original vision. The PRD also helps us avoid problems before writing any code.
+After the PRD is crystallised, a set of lower level requirements and application specs are usually distilled from it. These lower level specs help bridge the gap between the business goal and the technical implementation details. It provides guidance and guardrails around the app to make sure it always aligns back to fulfilling the original vision. The PRD also helps us see and avoid problems in the product domain space before writing any code.
