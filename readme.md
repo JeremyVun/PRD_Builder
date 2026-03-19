@@ -27,4 +27,6 @@ Your second message:
 This is the PRD I have built so far, study it and continue from here.
 ````
 
-The AI will then pick up from where you left off previously. Basically, we are "refreshing" the AI with a summary of previous discussions to make it "smarter" again.
+The AI will then pick up from where you left off previously. Basically, we are treating the "PRD" document as a "save point", which we can use to "refresh" the AI with a summary of previous discussions to make it "smarter" again.
+
+You can ask the AI to create a PRD for you at any point as a "save point". For example, maybe you want to read what you have, think about it more, edit it a bit manually, and then follow the steps above to reload it back into the AI to continue with it's assistance.
