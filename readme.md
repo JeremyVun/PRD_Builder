@@ -32,7 +32,7 @@ The AI will then pick up from where you left off previously. Basically, we are t
 
 You can ask the AI to create a PRD for you at any point as a "save point". For example, maybe you want to read what you have, think about it more, edit it a bit manually, and then follow the steps above to reload it back into the AI to continue with it's assistance.
 
-- Another thing that is helpful you can do is open a new chat window, "load" your PRD like you did above. And very specifically ask it to `Identify any inconsistencies or uncertainties` with the plan.
+- Another thing that is helpful you can do is open a new chat window, give it your PRD like above and very specifically ask it to `Identify any inconsistencies or uncertainties` to shift it from a constructive collaborator to a "devils advocate" persona.
 
 ### Why create a PRD
 The PRD is a common starting point and high level artifact for application & feature development. It serves as a shareable, common product document that captures the what, why, and how.
